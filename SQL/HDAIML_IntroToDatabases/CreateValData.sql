@@ -18,9 +18,9 @@ insert into Customers (CustomerID, FirstName, LastName, BillingAddress, Delivery
 insert into Customers (CustomerID, FirstName, LastName, BillingAddress, DeliveryAddress, Email, PhoneNo) values (3, 'Joby', 'Fenge', '535 Chive Way', '94589 Dapin Plaza', 'jfenge2@facebook.com', '996-363-7157');
 insert into Customers (CustomerID, FirstName, LastName, BillingAddress, DeliveryAddress, Email, PhoneNo) values (4, 'Amory', 'Lawerence', '2467 Kensington Place', '1624 Crowley Street', 'alawerence3@t.co', '460-710-4764');
 insert into Customers (CustomerID, FirstName, LastName, BillingAddress, DeliveryAddress, Email, PhoneNo) values (5, 'Tony', 'Woodrow', '9633 Washington Point', '39 Beilfuss Avenue', 'twoodrow4@globo.com', '243-771-3026');
-insert into Customers (CustomerID, FirstName, LastName, BillingAddress, DeliveryAddress, Email, PhoneNo) values (6, 'Darragh', 'Clabby', 'Laurel Cottage', 'Lanesville', 'darragh.clabby@gmail.com', '243-771-3026');
-insert into Customers (CustomerID, FirstName, LastName, BillingAddress, DeliveryAddress, Email, PhoneNo) values (7, 'Sarah', 'Hunt', 'Laurel Cottage', 'Lanesville', 'darragh.clabby@gmail.com', '243-771-3026');
-insert into Customers (CustomerID, FirstName, LastName, BillingAddress, DeliveryAddress, Email, PhoneNo) values (8, 'Boris', 'Hunt-Clabby', 'Laurel Cottage', 'Lanesville', 'darragh.clabby@gmail.com', '243-771-3026');
+insert into Customers (CustomerID, FirstName, LastName, BillingAddress, DeliveryAddress, Email, PhoneNo) values (6, 'Homer', 'Simpson', '742 Evergreen Terrace', '742 Evergreen Terrace', 'homer@gmail.com', '243-771-3026');
+insert into Customers (CustomerID, FirstName, LastName, BillingAddress, DeliveryAddress, Email, PhoneNo) values (7, 'Ned', 'Flanders', '743 Evergreen Terrace', '743 Evergreen Terrace', 'flanders@gmail.com', '243-771-3026');
+insert into Customers (CustomerID, FirstName, LastName, BillingAddress, DeliveryAddress, Email, PhoneNo) values (8, 'Barney', 'Gumble', 'Moes Tavern', 'Moes Tavern', 'barney@gmail.com', '243-771-3026');
 
 create table Staff (
 	StaffID INT,
